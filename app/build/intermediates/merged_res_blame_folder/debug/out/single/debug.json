@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_rounded_edittext_bg.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\rounded_edittext_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "ru.samsung.kotlin.music4you.app-merged_res-53:/mipmap-anydpi_ic_app.png.flat",
+        "source": "ru.samsung.kotlin.music4you.app-main-55:/mipmap-anydpi/ic_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\layout_fragment_music.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\fragment_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_pause.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_next.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\layout_music_item.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\music_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_track_bg.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\track_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_repeat_on.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_repeat_on.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_repeat.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_repeat.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_repeat_off.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_conteiner_bg.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\conteiner_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_play.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_default_album_art.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\default_album_art.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\layout_fragment_player.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\fragment_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\font_app_text_font.ttf.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\font\\app_text_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\font_app_name_font.ttf.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\font\\app_name_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\mipmap-anydpi_ic_app.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\mipmap-anydpi\\ic_app.png"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-merged_res-53:\\drawable_ic_previous.png.flat",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\drawable\\ic_previous.png"
+    }
+]

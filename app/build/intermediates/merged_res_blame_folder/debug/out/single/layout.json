@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-mergeDebugResources-52:\\layout\\music_item.xml",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\music_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-mergeDebugResources-52:\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "ru.samsung.kotlin.music4you.app-mergeDebugResources-52:/layout/fragment_player.xml",
+        "source": "ru.samsung.kotlin.music4you.app-main-55:/layout/fragment_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-mergeDebugResources-52:\\layout\\fragment_music.xml",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\fragment_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-mergeDebugResources-52:\\layout\\fragment_player.xml",
+        "source": "C:\\Users\\Danik\\.gradle\\daemon\\8.0\\ru.samsung.kotlin.music4you.app-main-55:\\layout\\fragment_player.xml"
+    }
+]

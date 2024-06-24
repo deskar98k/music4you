@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Music4you</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="music4you">Music4you</string>
+    <string name="text_about">\nМобильная музыка Music4you: Это приложение для мобильных устройств, которое позволяет пользователю прослушивать и скачивать музыку. Оно предлагает широкий выбор треков различных жанров и исполнителей. Пользователи могут создавать свои плейлисты, делиться музыкой с друзьями и наслаждаться качественным звуком.\n\nРазработчики приложения:\n\nШульгин Александр (151115): Один из главных дизайн-разработчиков приложения. Ответственен за разработку и исправление ошибок программного кода. Внес большой вклад в функциональность и стабильность приложения.\n\nЧувакорзин Данила (151115): Еще один разработчик приложения. Активно участвует в разработке новых функций и улучшении пользовательского интерфейса. Также занимается исправлением ошибок и оптимизацией производительности.</string>
+    <string name="text_about_label">О нас</string>
+    <style name="Theme.Music4you" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+</resources>

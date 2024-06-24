@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_marginBottom="8dp"
+    android:background="@drawable/track_bg"
+    android:padding="16dp">
+    <!-- Иконка альбома -->
+    <ImageView
+        android:id="@+id/music_icon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/default_album_art" />
+
+    <!-- Информация о треке -->
+    <LinearLayout
+        android:id="@+id/music_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_toEndOf="@id/music_icon"
+        android:layout_toRightOf="@id/music_icon"
+        android:orientation="vertical">
+
+        <!-- Название трека -->
+        <TextView
+            android:id="@+id/music_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/app_text_font"
+            android:text="Название трека"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+
+        <!-- Исполнитель -->
+        <TextView
+            android:id="@+id/music_autor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/app_text_font"
+            android:text="Исполнитель"
+            android:textColor="@color/white"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <!-- Продолжительность трека -->
+    <TextView
+        android:id="@+id/music_duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/app_text_font"
+        android:text="3:45"
+        android:textColor="@color/white"
+        android:textSize="10sp" />
+</RelativeLayout>
+
+

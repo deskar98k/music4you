@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="46dp" /> <!-- Здесь вы можете указать радиус, который хотите использовать для закругления -->
+    <solid android:color="#343333" /> <!-- Цвет фона -->
+
+</shape>

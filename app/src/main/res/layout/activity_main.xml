@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#292929"
+    tools:context=".ui.MainActivity">
+    <!-- Header with app name and search bar -->
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/app_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/app_name_font"
+            android:text="@string/music4you"
+            android:textColor="#FFA500"
+            android:textSize="36sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/search_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/app_name"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/rounded_edittext_bg"
+            android:drawableStart="@drawable/ic_search"
+            android:drawablePadding="20dp"
+            android:hint="Поиск"
+            android:padding="8dp"
+            android:textColor="#FFFFFF"
+            android:fontFamily="@font/app_text_font"/>
+    </RelativeLayout>
+
+    <!-- Navigation tabs -->
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/header"
+        android:background="#292929"
+        app:tabIndicatorColor="#FFA500"
+        app:tabSelectedTextColor="#FFA500"
+        app:tabTextColor="#FFFFFF" />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tabLayout" />
+
+    <!-- Player section -->
+
+</RelativeLayout>

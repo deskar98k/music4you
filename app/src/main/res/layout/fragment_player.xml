@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#292929"
+    tools:context=".ui.PlayerFragment">
+
+    <!-- Container for song information -->
+    <LinearLayout
+        android:id="@+id/song_info_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Image for the song -->
+        <ImageView
+            android:id="@+id/song_image"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="centerCrop"
+            android:src="@drawable/default_album_art" />
+
+        <!-- Song progress -->
+        <SeekBar
+            android:id="@+id/songProgressSeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:progressTint="#FFA500"
+            android:thumbTint="#FFA500" />
+
+        <!-- Song duration -->
+
+        <!-- Song title -->
+
+        <TextView
+            android:id="@+id/song_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="16dp"
+            android:text="00:00"
+            android:textColor="#CCCCCC"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/song_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Название аудио"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+
+        <!-- Song artist -->
+        <TextView
+            android:id="@+id/song_artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="4dp"
+            android:text="Исполнитель"
+            android:textColor="#FFA500"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <!-- Controls: volume slider, previous, play/pause, next -->
+
+    <!-- Bottom player controls (seek bar and icons) -->
+    <LinearLayout
+        android:id="@+id/bottom_controls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/song_info_container"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <!-- Previous song button -->
+            <ImageButton
+                android:id="@+id/player_previous_button"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Previous"
+                android:src="@drawable/ic_previous"
+                app:tint="#FFA500"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <!-- Play/Pause button -->
+            <ImageButton
+                android:id="@+id/player_play_pause_button"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="32dp"
+                android:layout_marginEnd="32dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Play/Pause"
+                android:src="@drawable/ic_pause"
+                app:tint="#FFA500"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <!-- Next song button -->
+            <ImageButton
+                android:id="@+id/player_next_button"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Next"
+                android:src="@drawable/ic_next"
+                app:tint="#FFA500"
+                tools:ignore="TouchTargetSizeCheck" />
+        </LinearLayout>
+
+        <!-- Repeat button -->
+        <ImageButton
+            android:id="@+id/player_repeat_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="16dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Repeat"
+            android:src="@drawable/ic_repeat_off"
+            tools:ignore="TouchTargetSizeCheck" />
+
+    </LinearLayout>
+
+</RelativeLayout>
